@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage/Layout.Master" AutoEventWireup="true" CodeBehind="Dashboard.aspx.cs" Inherits="MITComputerWebForm.Pages.Dashboard" %>
 
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentLayout" runat="server">
+<asp:Content ID="ContentLayout" ContentPlaceHolderID="ContentLayout" runat="server">
     <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
         <div class="row">
             <ol class="breadcrumb">
