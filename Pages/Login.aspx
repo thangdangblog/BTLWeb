@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <title>Đăng nhập MIT Computer</title>
     <link href="../Content/css/login.css" rel="stylesheet" />
-    <link href="../Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
     <link href="../Content/css/toastr.min.css" rel="stylesheet">
 </head>
 <body>
