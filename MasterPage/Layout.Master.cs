@@ -13,7 +13,7 @@ namespace MITComputerWebForm.MasterPage
         {
             if (Session["username"] == null)
             {
-                Response.Redirect("https://thangdangblog.com");
+                //Response.Redirect("https://thangdangblog.com");
             }
 
         }

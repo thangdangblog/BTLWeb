@@ -13,7 +13,7 @@ namespace MITComputerWebForm.Pages
         {
             if(Session["username"] == null)
             {
-                Response.Redirect("/pages/login.aspx");
+                //Response.Redirect("/pages/login.aspx");
             }
         }
     }
